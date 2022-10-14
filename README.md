@@ -7,6 +7,8 @@ The challenge requires a Node app, with a basic UI that can take an Excel spread
 
 - Address 
 - city
+- State
+- Country
 - Phone number
 - Fax Number
 
