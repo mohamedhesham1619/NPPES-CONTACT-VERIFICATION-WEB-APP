@@ -1,4 +1,4 @@
-# NPPES-CONTACT-VERIFICATION-WEB-APP
+# NPPES Contact Verification Web App
 
 ## Overview
 This project is a challenge on [Topcoder](https://www.topcoder.com/challenges/c587c6b7-f378-4dc7-bb4b-29fb12174025).
